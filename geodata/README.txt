@@ -1,4 +1,6 @@
-#GEOCODING_Project_1
+This is a text file , a guide and consists of all the resources used in the project
+This is a part of the course PYTHON FOR EVERYBODY SPECIALIZATION and is a assignment submission.
+
 Using the Google Places API with a Database and
 Visualizing Data on Google Map
 
